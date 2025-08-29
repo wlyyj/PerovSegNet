@@ -11,7 +11,7 @@ The analysis of SEM images plays a critical role in understanding the microstruc
 - Accelerating material characterization
 
 This framework overcomes the challenges of manual SEM analysis, offering an **automated, scalable solution** for real-time process monitoring and **quantitative microstructural analysis**.
-
+ 
 ### Features
 - **Automated segmentation** for PbI<sub>2</sub> and perovskite materials
 - Built on **YOLOv8x architecture**
@@ -29,3 +29,7 @@ To install the required dependencies, simply run:
 
 ```bash
 pip install -r requirements.txt
+```
+## Datasets
+To train or test the model, you need access to the SEM image dataset. You can download the dataset from the following link:
+https://github.com/wlyyj/PerovSegNet-Dataset
