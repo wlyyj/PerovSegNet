@@ -29,3 +29,8 @@ SEM图像分析在理解薄膜微观结构方面起着至关重要的作用，�
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 数据集 
+要训练或测试模型，需要访问SEM图像数据集。您可以从以下链接下载数据集：
+https://github.com/wlyyj/PerovSegNet-Dataset
